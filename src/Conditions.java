@@ -1,8 +1,6 @@
 import java.util.Scanner;
 public class Conditions {
         public static void main(String[] args) {
-
-
             Scanner sc = new Scanner(System.in);
             System.out.println("Zadej nějaké číslo, ze kterého spočítám odmocninu: ");
             int a = Integer.parseInt(sc.nextLine());
